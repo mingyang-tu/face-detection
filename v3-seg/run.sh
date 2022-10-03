@@ -1,0 +1,1 @@
+python main.py --input ../test-img.jpg --resize 1024 --detail 1

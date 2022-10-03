@@ -1,0 +1,1 @@
+python main.py --dir ../ --input test-img.jpg --detail True --resize 1024
