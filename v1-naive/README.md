@@ -1,6 +1,7 @@
 # Face Detection by Outline, Color, and Facial Features
 
-![](./flowchart.png)
+<img src="./flowchart.png" width="400"/>
+
 ## Environment
 - python
 - NumPy

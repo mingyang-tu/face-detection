@@ -1,5 +1,5 @@
 # Face Detection using Haar Cascade, Facial Features and Skin Detection
-![](./flowchart.png)
+<img src="./flowchart.png" width="400"/>
 
 ## Environment
 - python
