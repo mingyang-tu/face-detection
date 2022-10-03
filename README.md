@@ -1,4 +1,4 @@
-# Different Approaches of Face Detection
+# Different Approaches on Face Detection
 
 - v1: Naive
 - v2: Fast and Robust
